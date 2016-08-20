@@ -1,2 +1,0 @@
-# CSCI222A2
-CSCI222 Assignment 2
