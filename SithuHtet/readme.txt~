@@ -1,0 +1,5 @@
+g++ Main.cpp Printer.cpp -o main.exe 2>error.txt  <<copy this string to recompile
+
+login with wen password 123
+you can create new user with option 9
+
